@@ -1,0 +1,27 @@
+{
+  "name": "a-median",
+  "version": "1.0.0",
+  "description": "Returns average of numbers in an array",
+  "main": "index.js",
+  "dependencies": {
+    "a-average": "^1.0.0",
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikramcse/a-median.git"
+  },
+  "keywords": [],
+  "author": "Vikram <vikramcse.10@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikramcse/a-median/issues"
+  },
+  "homepage": "https://github.com/vikramcse/a-median#readme"
+}
